@@ -1,5 +1,3 @@
-<details>
-<summary>Click to expand</summary>
 
 Follow these simple steps to disable telemetry in Firefox:
 
@@ -9,4 +7,3 @@ Follow these simple steps to disable telemetry in Firefox:
 4. Restart firefox
 
 Special thanks to K3V1991 for the idea. You can find the original repository here - https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection
-</details>
