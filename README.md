@@ -1,4 +1,3 @@
-
 Follow these simple steps to disable telemetry in Firefox:
 
 1. Download user.js file from this repo
